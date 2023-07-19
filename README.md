@@ -1,1 +1,1 @@
-Navigate to libs folder , inside first_app folder to see main.dart
+navigate to budget tracker folder to see the week 2 assignment 
